@@ -24,27 +24,22 @@ Day 1:
 
 Day 2:
 
-- START @ 9AM
-- Recap & warmup (Duncan Leggat, 30 min)
-- Project-style exercises (2.5 hr)
-- COFFEE BREAK @ 11:30
-- Deep Dive (Cetra, Leigh Smith, 1 hr)
-- LUNCH 1-2 PM
-- Introduction to multi-GPU parallelisation (Miren, 2 hr)
-    - Presentation + exercises
-- COFFEE BREAK ~ 3pm (again, interleaved with earlier session)
-- PRES Peter Boyle - backend + AI stuff (1 hr)
-- END @ 5/6 PM
+|Time|Topic|Presenter|
+|---|---|---|
+|9|Recap|Duncan Leggat|
+|11|Coffee||
+|12|CETRA Deep Dive|Leigh Smith|
+|13|Lunch||
+|14|Multi-GPU parallelisation|Miren Radia|
+|16|GRID Deep Dive|Peter Boyle|
 
 Day 3:
 
-- START @ 9AM
-- DEEP DIVE (JAX) (1 hr)
-- Technical deep dive on multi-GPU optimisation in PROMPI (Miren) (0.5 hr)
-- Multi-GPU exercises (continued) (1 hr)
-- COFFEE (30 min)
-- What other training is available? (JQ, 30 min)
-- LUNCH 1-2 PM
-- CODE CLINIC (group discussion with each group focused on single topic collected during rest of workshop, led by RSEs. 3-5 discussions) (1 hr)
-- FEEDBACK SESSION (30 min)
-- CLOSE ~ 3PM
+|Time|Topic|Presenter|
+|---|---|---|
+|9|Multi-GPU continued|Miren Radia|
+|11|Coffee||
+|12|PyAutoLens Deep Dive|James Nightingale|
+|13|Lunch||
+|14|Code Clinit & Feedback|Groups|
+|15|Home time!||
