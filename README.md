@@ -12,19 +12,16 @@ Meta-repository for all GPPT Workshop 1 material (15th Sept 2026)
 ## Schedule
 
 Day 1:
+|Time|Topic|Presenter|
+|---|---|---|
+|10|Welcome & review of GPU landscape|Jamie Quinn|
+|11|Coffee||
+|11:30|GPU programming with CUDA & OpenMP|Jamie Quinn|
+|13:00|Lunch||
+|14:00|Profiling & Optmisation|Duncan Leggat|
+|15:00|Coffee||
+|16:00|PROMPI Deep Dive| Raphael Hirschi|
 
-- START @ 10 AM
-- Welcome & housekeeping (JQ, 15 min)
-- GPU hardware & software landscapes (JQ, 1 hr)
-- COFFEE BREAK ~ 11 AM
-- Lightning recap of GPU programming with CUDA & OpenMP (JQ, 1.5 hr)
-    - Presentation + exercises
-- LUNCH 1-2 PM
-- Profiling & optimisation (2 hr)
-    - Presentation, codealongs + exercises (Duncan Leggat) (2 hr)
-- COFFEE BREAK ~ 3 PM (can be interleaved with previous session)
-- Deep dive (PROMPI, Raphael Hirschi, 1 hr)
-- END @ 5/6 PM
 
 Day 2:
 
