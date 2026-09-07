@@ -19,14 +19,15 @@ Day 1:
 |11|Coffee||
 |11:30|GPU programming with CUDA & OpenMP|Jamie Quinn|
 |13|Lunch||
-|14|Profiling & Optmisation (& coffee)|Duncan Leggat|
+|14|Profiling & Optimisation (& coffee)|Duncan Leggat|
 |16|PROMPI Deep Dive| Raphael Hirschi|
 
 Day 2:
 
 |Time|Topic|Presenter|
 |---|---|---|
-|9|Recap|Duncan Leggat|
+|9-9:30|Recap|Duncan Leggat|
+|9:30-12|Project-style exercises|Jamie Quinn|
 |11|Coffee||
 |12|CETRA Deep Dive|Leigh Smith|
 |13|Lunch||
