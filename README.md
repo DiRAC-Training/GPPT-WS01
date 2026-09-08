@@ -13,34 +13,35 @@ Meta-repository for all GPPT Workshop 1 material (15th Sept 2026)
 
 Day 1:
 
-|Time|Topic|Presenter|
-|---|---|---|
-|10|Welcome & review of GPU landscape|Simon Hands & Jamie Quinn|
-|11|Coffee||
-|11:30|GPU programming with CUDA & OpenMP|Jamie Quinn|
-|13|Lunch||
-|14|Profiling & Optimisation (& coffee)|Duncan Leggat|
-|16|PROMPI Deep Dive| Raphael Hirschi|
+|Time|Topic|Format|Presenter|
+|---|---|---|---|
+|10|Welcome|Presentation|Simon Hands|
+|10:15|GPU Landscape|Presentation|Jamie Quinn|
+|11|Coffee|||
+|11:30|GPU programming with CUDA & OpenMP|Tutorial|Jamie Quinn|
+|13|Lunch|||
+|14|Profiling & Optimisation (& coffee)|Tutorial|Duncan Leggat|
+|16|PROMPI Deep Dive|Presentation|Raphael Hirschi|
 
 Day 2:
 
-|Time|Topic|Presenter|
-|---|---|---|
-|9-9:30|Recap|Duncan Leggat|
-|9:30-12|Project-style exercises|Jamie Quinn|
-|11|Coffee||
-|12|CETRA Deep Dive|Leigh Smith|
-|13|Lunch||
-|14|Multi-GPU parallelisation|Miren Radia|
-|16|GRID Deep Dive|Peter Boyle|
+|Time|Topic|Format|Presenter|
+|---|---|---|---|
+|9-9:30|Recap|Presentation|Jamie Quinn|
+|9:30-12|Porting & optimisation|Exercises|Jamie Quinn|
+|11|Coffee|||
+|12|CETRA Deep Dive|Presentation|Leigh Smith|
+|13|Lunch|||
+|14|Multi-GPU parallelisation|Tutorial|Miren Radia|
+|16|GRID Deep Dive|Presentation|Peter Boyle|
 
 Day 3:
 
-|Time|Topic|Presenter|
-|---|---|---|
-|9|Multi-GPU continued|Miren Radia|
-|11|Coffee||
-|12|PyAutoLens Deep Dive|James Nightingale|
-|13|Lunch||
-|14|Code Clinit & Feedback|Groups|
-|15|Home time!||
+|Time|Topic|Format|Presenter|
+|---|---|---|---|
+|9|Multi-GPU continued|Tutorial|Miren Radia|
+|11|Coffee|||
+|12|PyAutoLens Deep Dive|Presentation|James Nightingale|
+|13|Lunch|||
+|14|Code Clinic & Feedback|Discussion|Groups|
+|15|Home time!|||
