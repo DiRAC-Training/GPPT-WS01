@@ -15,13 +15,15 @@ Day 1:
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
-|10|Welcome|Presentation|Simon Hands|
-|10:15|GPU Landscape|Presentation|Jamie Quinn|
-|11|Coffee|||
+|09:45|Welcome and Introduction|Presentation|Simon Hands|
+|10:00|GPU Landscape|Presentation|Jamie Quinn|
+|11:00|Coffee|||
 |11:30|GPU programming with CUDA & OpenMP|Tutorial|Jamie Quinn|
-|13|Lunch|||
-|14|Profiling & Optimisation (& coffee)|Tutorial|Duncan Leggat|
-|16|PROMPI Deep Dive|Presentation|Raphael Hirschi|
+|13:00|Lunch|||
+|14:00|Profiling & Optimisation|Tutorial|Duncan Leggat|
+|14:50|Coffee|||
+|15:20|Profiling & Optimisation|Tutorial|Duncan Leggat|
+|16:00|PROMPI Deep Dive|Presentation|Raphael Hirschi|
 
 Day 2:
 
