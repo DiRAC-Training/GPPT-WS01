@@ -46,6 +46,7 @@ Day 3:
 |---|---|---|---|
 |9:00|**Multi-GPU Parallelisation III**|Tutorial|Miren Radia|
 |11:00|Coffee|||
+|11:30|**What other training is available?**|Presentation|Jamie Quinn|
 |12:00|**PyAutoLens Deep Dive**|Presentation|James Nightingale|
 |13:00|Lunch|||
 |14:00|**Code Clinic & Feedback**|Discussion|Groups|
