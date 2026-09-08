@@ -15,6 +15,7 @@ Day 1:
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
+|09:15|Registration in Brailsford Suite|||
 |09:45|Welcome and Introduction|Presentation|Simon Hands|
 |10:00|GPU Landscape|Presentation|Jamie Quinn|
 |11:00|Coffee|||
