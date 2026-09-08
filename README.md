@@ -30,13 +30,14 @@ Day 2:
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
-|9|Recap|Presentation|Jamie Quinn|
-|9:30|Porting & optimisation|Exercises|Jamie Quinn|
-|11|Coffee|||
-|12|CETRA Deep Dive|Presentation|Leigh Smith|
-|13|Lunch|||
-|14|Multi-GPU parallelisation|Tutorial|Miren Radia|
-|16|GRID Deep Dive|Presentation|Peter Boyle|
+|9:00|Porting & optimisation|Tutorial|Jamie Quinn|
+|11:00|Coffee|||
+|12:00|CETRA Deep Dive|Presentation|Leigh Smith|
+|13:00|Lunch|||
+|14:00|Multi-GPU parallelisation I|Tutorial|Miren Radia|
+|14:50|Coffee|||
+|15:20|Multi-GPU parallelisation II|Tutorial|Miren Radia|
+|16:00|GRID Deep Dive|Presentation|Peter Boyle|
 
 Day 3:
 
