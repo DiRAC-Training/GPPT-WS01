@@ -1,4 +1,4 @@
-# GPPT-WS01
+# GPU Performance Portability Training: 15th Sept 2026 
 
 Meta-repository for all GPPT Workshop 1 material (15th Sept 2026)
 
