@@ -27,8 +27,8 @@ Day 2:
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
-|9-9:30|Recap|Presentation|Jamie Quinn|
-|9:30-12|Porting & optimisation|Exercises|Jamie Quinn|
+|9|Recap|Presentation|Jamie Quinn|
+|9:30|Porting & optimisation|Exercises|Jamie Quinn|
 |11|Coffee|||
 |12|CETRA Deep Dive|Presentation|Leigh Smith|
 |13|Lunch|||
