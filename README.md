@@ -30,23 +30,23 @@ Day 2:
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
-|9:00|Porting & Optimisation|Hands-On|Jamie Quinn|
+|9:00|**Porting & Optimisation**|Hands-On|Jamie Quinn|
 |11:00|Coffee|||
-|12:00|CETRA Deep Dive|Presentation|Leigh Smith|
+|12:00|**CETRA Deep Dive**|Presentation|Leigh Smith|
 |13:00|Lunch|||
-|14:00|Multi-GPU Parallelisation I|Tutorial|Miren Radia|
+|14:00|**Multi-GPU Parallelisation I**|Tutorial|Miren Radia|
 |14:50|Coffee|||
-|15:20|Multi-GPU Parallelisation II|Tutorial|Miren Radia|
-|16:00|GRID Deep Dive|Presentation|Peter Boyle|
+|15:20|**Multi-GPU Parallelisation II**|Tutorial|Miren Radia|
+|16:00|**GRID Deep Dive**|Presentation|Peter Boyle|
 |18:30|Networking Dinner|||
 
 Day 3:
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
-|9:00|Multi-GPU Parallelisation III|Tutorial|Miren Radia|
+|9:00|**Multi-GPU Parallelisation III**|Tutorial|Miren Radia|
 |11:00|Coffee|||
-|12:00|PyAutoLens Deep Dive|Presentation|James Nightingale|
+|12:00|**PyAutoLens Deep Dive**|Presentation|James Nightingale|
 |13:00|Lunch|||
-|14:00|Code Clinic & Feedback|Discussion|Groups|
+|14:00|**Code Clinic & Feedback**|Discussion|Groups|
 |15:00|Home time!|||
