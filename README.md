@@ -12,7 +12,7 @@ Day 1:
 |11:00|Coffee|||
 |11:30|**GPU programming with CUDA & OpenMP**|Tutorial|Jamie Quinn|
 |13:00|Lunch|||
-|14:00|**Profiling & Optimisation I**|Tutorial: [**exercises**](https://github.com/JamieJQuinn/GPPT-WS01/tree/main/single_gpu_exercises), [**Slides**](https://dleggat.github.io/gppt-ws01-talk)|Duncan Leggat|
+|14:00|**Profiling & Optimisation I**|Tutorial: [**Exercises**](https://github.com/JamieJQuinn/GPPT-WS01/tree/main/single_gpu_exercises), [**Slides**](https://dleggat.github.io/gppt-ws01-talk)|Duncan Leggat|
 |14:50|Coffee|||
 |15:20|**Profiling & Optimisation II**|Tutorial|Duncan Leggat|
 |16:00|**PROMPI Deep Dive**|Presentation|Raphael Hirschi|
