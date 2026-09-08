@@ -38,7 +38,7 @@ Day 2:
 |14:50|Coffee|||
 |15:20|**Multi-GPU Parallelisation II**|Tutorial|Miren Radia|
 |16:00|**GRID Deep Dive**|Presentation|Peter Boyle|
-|18:30|Networking Dinner|||
+|18:00|Networking Dinner|||
 
 Day 3:
 
