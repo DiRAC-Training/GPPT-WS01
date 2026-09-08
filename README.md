@@ -13,7 +13,7 @@ Day 1:
 |14:00|**Profiling & Optimisation I**|Tutorial: [**Exercises**](https://github.com/JamieJQuinn/GPPT-WS01/tree/main/single_gpu_exercises), [**Slides**](https://dleggat.github.io/gppt-ws01-talk)|Duncan Leggat|
 |14:50|Coffee|||
 |15:20|**Profiling & Optimisation II**|Tutorial: [**Exercises**](https://github.com/JamieJQuinn/GPPT-WS01/tree/main/single_gpu_exercises), [**Slides**](https://dleggat.github.io/gppt-ws01-talk)|Duncan Leggat|
-|16:00|**PROMPI Deep Dive**|Presentation|Raphael Hirschi|
+|16:00|**CETRA Deep Dive**|Presentation|Leigh Smith|
 
 Day 2:
 
@@ -21,7 +21,7 @@ Day 2:
 |---|---|---|---|
 |9:00|**Porting & Optimisation**|Hands-On: [**N-Body Simulation**](https://github.com/DiRAC-Training/gppt-ws01-nbody) & [**Conjugate Gradient Solver**](https://github.com/DiRAC-Training/gppt-ws01-conjugate-gradient)|Jamie Quinn|
 |11:00|Coffee|||
-|12:00|**CETRA Deep Dive**|Presentation|Leigh Smith|
+|12:00|**PROMPI Deep Dive**|Presentation|Raphael Hirschi|
 |13:00|Lunch|||
 |14:00|**Multi-GPU Parallelisation I**|Tutorial: [**Exercises**](https://github.com/mirenradia/dirac-gppt-multi-gpu/tree/main/exercises), [**Slides**](https://mirenradia.github.io/dirac-gppt-multi-gpu/#/title-slide)|Miren Radia|
 |14:50|Coffee|||
