@@ -15,7 +15,7 @@ Day 1:
 
 |Time|Topic|Presenter|
 |---|---|---|
-|10|Welcome & review of GPU landscape|Jamie Quinn|
+|10|Welcome & review of GPU landscape|Simon Hands & Jamie Quinn|
 |11|Coffee||
 |11:30|GPU programming with CUDA & OpenMP|Jamie Quinn|
 |13|Lunch||
