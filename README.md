@@ -8,7 +8,7 @@ Day 1:
 |09:45|**Welcome and Introduction**|Presentation|Simon Hands|
 |10:00|**GPU Landscape**|Presentation|Jamie Quinn|
 |11:00|Coffee|||
-|11:30|**GPU programming with CUDA & OpenMP**|Tutorial|Jamie Quinn|
+|11:30|**GPU programming with CUDA & OpenMP**|Tutorial: [Exercises](https://github.com/DiRAC-Training/gppt-ws01-nbody/blob/main/README.md)|Jamie Quinn|
 |13:00|Lunch|||
 |14:00|**Profiling & Optimisation I**|Tutorial: [**Exercises**](https://github.com/JamieJQuinn/GPPT-WS01/tree/main/single_gpu_exercises), [**Slides**](https://dleggat.github.io/gppt-ws01-talk)|Duncan Leggat|
 |14:50|Coffee|||
