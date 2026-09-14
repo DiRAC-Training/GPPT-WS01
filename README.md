@@ -1,4 +1,4 @@
-# GPU Performance Portability Training: 15th Sept 2026 
+# GPU Performance Portability Training: 15th-17th Sept 2026 
 
 Day 1:
 
