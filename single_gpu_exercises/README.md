@@ -19,3 +19,12 @@ The `README.md` in each directory will discuss the concept that the code is demo
 The `solutions.md` contain further insight into what is happening in the code, as well as expected outputs for the exercises.
 
 The numbers in the solutions were generated on an A100 GPU, so if you are using different hardware your exact values may vary, but the principles will remain.
+
+## Accessing the exercises
+
+```bash
+git clone git@github.com:DiRAC-Training/GPPT-WS01.git
+cd single_gpu_exercises
+```
+
+**Please also check the [Guidance on the Nsys UI on CSD3](https://github.com/DiRAC-Training/GPPT-WS01/blob/main/guidance_on_csd3.md).**
