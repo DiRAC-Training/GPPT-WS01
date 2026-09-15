@@ -23,7 +23,7 @@ The numbers in the solutions were generated on an A100 GPU, so if you are using 
 ## Accessing the exercises
 
 ```bash
-git clone git@github.com:DiRAC-Training/GPPT-WS01.git
+git clone https://github.com/DiRAC-Training/GPPT-WS01.git
 cd single_gpu_exercises
 ```
 
