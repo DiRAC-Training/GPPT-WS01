@@ -23,3 +23,12 @@ You can submit an executable directly with:
 ```bash
 srun --gres=gpu:1 --ntasks-per-node 1 -p ampere -t 00:02:00 -A DIRAC-DT001-GPU -q intr ./<executable>
 ```
+
+## Modules
+
+You may find issues with the default modules. We recommend sourcing the relevant module file in this repo:
+
+```bash
+wget https://raw.githubusercontent.com/DiRAC-Training/GPPT-WS01/refs/heads/main/csd3-modules-cpp-cuda.sh
+source csd3-modules-cpp-cuda.sh
+```
