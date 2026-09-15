@@ -26,6 +26,9 @@ The numbers in the solutions were generated on an A100 GPU, so if you are using 
 git clone https://github.com/DiRAC-Training/GPPT-WS01.git
 cd GPPT-WS01/single_gpu_exercises
 source ../csd3-modules-cpp-cuda.sh # Look at the link below!
+
+# To profile with ncu:
+srun --gres=gpu:1 --ntasks-per-node 1 -p ampere -t 00:02:00 -A DIRAC-DT001-GPU -q intr ncu ...
 ```
 
 **Please also check the [Guidance on the Nsys UI on CSD3](https://github.com/DiRAC-Training/GPPT-WS01/blob/main/guidance_on_csd3.md).**
