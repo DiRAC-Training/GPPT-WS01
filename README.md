@@ -8,7 +8,7 @@ Day 1:
 |---|---|---|---|
 |09:15|Registration in Brailsford Suite|||
 |09:45|**Welcome and Introduction**|Presentation|Simon Hands|
-|10:00|**GPU Landscape**|Presentation|Jamie Quinn|
+|10:00|**GPU Landscape**|Presentation: [**Slides**](https://jamiejquinn.github.io/GPPT-WS01-introduction)|Jamie Quinn|
 |11:00|Coffee|||
 |11:30|**GPU programming with CUDA & OpenMP**|Tutorial: [Exercises](https://github.com/DiRAC-Training/gppt-ws01-nbody/blob/main/README.md)|Jamie Quinn|
 |13:00|Lunch|||
