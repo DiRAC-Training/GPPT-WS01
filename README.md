@@ -2,6 +2,8 @@
 
 Day 1:
 
+<tinyurl.com/GPPTZoomDay1>
+
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
 |09:15|Registration in Brailsford Suite|||
@@ -17,6 +19,8 @@ Day 1:
 
 Day 2:
 
+<tinyurl.com/GPPTZoomDay2>
+
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
 |9:00|**Porting & Optimisation**|Hands-On: [**N-Body Simulation**](https://github.com/DiRAC-Training/gppt-ws01-nbody) & [**Conjugate Gradient Solver**](https://github.com/DiRAC-Training/gppt-ws01-conjugate-gradient)|Jamie Quinn|
@@ -30,6 +34,8 @@ Day 2:
 |18:00|Networking Dinner|||
 
 Day 3:
+
+<tinyurl.com/GPPTZoomDay3>
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
