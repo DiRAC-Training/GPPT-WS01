@@ -24,7 +24,8 @@ The numbers in the solutions were generated on an A100 GPU, so if you are using 
 
 ```bash
 git clone https://github.com/DiRAC-Training/GPPT-WS01.git
-cd single_gpu_exercises
+cd GPPT-WS01/single_gpu_exercises
+source ../csd3-modules-cpp-cuda.sh # Look at the link below!
 ```
 
 **Please also check the [Guidance on the Nsys UI on CSD3](https://github.com/DiRAC-Training/GPPT-WS01/blob/main/guidance_on_csd3.md).**
