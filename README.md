@@ -2,7 +2,7 @@
 
 Day 1:
 
-<tinyurl.com/GPPTZoomDay1>
+[Zoom Day 1](tinyurl.com/GPPTZoomDay1)
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
@@ -19,7 +19,7 @@ Day 1:
 
 Day 2:
 
-<tinyurl.com/GPPTZoomDay2>
+[Zoom Day 2](tinyurl.com/GPPTZoomDay2)
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
@@ -35,7 +35,7 @@ Day 2:
 
 Day 3:
 
-<tinyurl.com/GPPTZoomDay3>
+[Zoom Day 3](tinyurl.com/GPPTZoomDay3)
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
