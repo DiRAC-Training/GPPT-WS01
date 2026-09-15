@@ -1,5 +1,9 @@
 # GPU Performance Portability Training: 15th-17th Sept 2026 
 
+**Put code clinic suggestions in:**
+
+https://tinyurl.com/GPPTCodeClinic
+
 Day 1:
 
 [Zoom Day 1](https://tinyurl.com/GPPTZoomDay1)
