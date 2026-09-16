@@ -55,3 +55,23 @@ Sometimes viewing reports from `nsys` is better done in the GUI. There are a few
     ```bash
     scp <USERNAME>@login.hpc.cam.ac.uk:/home/<USERNAME>/workshop/report.nsys-rep <destination>
     ```
+
+# Running `ncu` on CSD3
+
+If you're logged into the direct access node (`gpu-q-11`) and you try to run `ncu` you might get the error:
+
+```
+==ERROR== Cannot lock GPU clock frequencies on MIG! Try locking the clocks externally (e.g. using 'nvidia-smi --lock-gpu-clocks=tdp,tdp') or profile without fixed frequencies (see '--clock-control').
+```
+
+You can add the following flag to avoid the error:
+
+```bash
+ncu --clock-control none <executable>
+```
+
+OR submit to the queue:
+
+```bash
+srun --gres=gpu:1 --ntasks-per-node 1 -p ampere -t 00:02:00 -A DIRAC-DT001-GPU -q intr ncu ...
+```
