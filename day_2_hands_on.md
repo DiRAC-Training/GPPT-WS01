@@ -2,7 +2,7 @@
 
 Don't forget about the [guidance on using CSD](https://github.com/DiRAC-Training/GPPT-WS01/blob/main/guidance_on_csd3.md) for **running in the queue**, **modules** and **nsys-ui**!
 
-Exercise options:
+## Exercise options:
 
 **1. If you would rather continue yesterday's *profiling* exercises**: [**Profiling exercises**](https://github.com/DiRAC-Training/GPPT-WS01/tree/main/single_gpu_exercises)
 
