@@ -34,7 +34,7 @@ Day 2:
 |14:00|**Multi-GPU Parallelisation I**|Tutorial: [**Exercises**](https://github.com/mirenradia/dirac-gppt-multi-gpu/tree/main/exercises), [**Slides**](https://mirenradia.github.io/dirac-gppt-multi-gpu/#/title-slide)|Miren Radia|
 |14:50|Coffee|||
 |15:20|**Multi-GPU Parallelisation II**|Tutorial: [**Exercises**](https://github.com/mirenradia/dirac-gppt-multi-gpu/tree/main/exercises), [**Slides**](https://mirenradia.github.io/dirac-gppt-multi-gpu/#/title-slide)|Miren Radia|
-|16:00|**GRID Deep Dive**|Presentation|Peter Boyle|
+|16:00|**GRID Deep Dive**|[Presentation](https://github.com/DiRAC-Training/GPPT-WS01/blob/main/slides/Peter_Boyle_GRID_Deep_Dive_DiracGPPT.pdf)|Peter Boyle|
 |18:00|Networking Dinner|||
 
 Day 3:
