@@ -5,7 +5,7 @@ Don't forget about the [guidance on using CSD](https://github.com/DiRAC-Training
 Exercise options:
 
 1. [**Profiling exercises**](https://github.com/DiRAC-Training/GPPT-WS01/tree/main/single_gpu_exercises)
-  - Continue working through 
+  - Continue working through focused profiling exercises
 2. [**N-Body Simulation**](https://github.com/DiRAC-Training/gppt-ws01-nbody)
   - Continue yesterday's porting
   - Move on to profiling and tiling optimisations: [Fortran OpenMP](https://github.com/DiRAC-Training/gppt-ws01-nbody/blob/main/fortran_01_02/02_profiling_and_optimisation.md), [C++ CUDA](https://github.com/DiRAC-Training/gppt-ws01-nbody/tree/main/cuda_02_optimisation)
