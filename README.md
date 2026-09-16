@@ -27,10 +27,7 @@ Day 2:
 
 |Time|Topic|Format|Presenter|
 |---|---|---|---|
-|9:00|**Porting & Optimisation**|Hands-On: \
-- [**N-Body Simulation**](https://github.com/DiRAC-Training/gppt-ws01-nbody)\
-- [**Profiling exercises**](https://github.com/DiRAC-Training/GPPT-WS01/tree/main/single_gpu_exercises)\
-- [**Conjugate Gradient Solver**](https://github.com/DiRAC-Training/gppt-ws01-conjugate-gradient)|Jamie Quinn|
+|9:00|**Porting & Optimisation**|**[README](https://github.com/DiRAC-Training/GPPT-WS01/blob/main/day_2_hands_on.md)**|Jamie Quinn|
 |11:00|Coffee|||
 |12:00|**PROMPI Deep Dive**|Presentation|Raphael Hirschi|
 |13:00|Lunch|||
