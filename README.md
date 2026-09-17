@@ -1,8 +1,19 @@
 # GPU Performance Portability Training: 15th-17th Sept 2026 
 
-**Put code clinic suggestions in:**
+**Code clinic topics:**
 
-https://tinyurl.com/GPPTCodeClinic
+In main room:
+
+1. GPU Python & Interfacing python frontends with C++ Cuda (**Jamie**)
+2. HIP, hipify and running on AMD GPUs (**Duncan**)
+3. Interoperability between OpenMP & CUDA/HIP (**Kacper**)
+
+In Worcester suite:
+
+4. Porting strategies (**Miren**)
+5. Floating point precision & GPUs (**Simon**)
+
+---
 
 Day 1:
 
