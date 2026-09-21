@@ -1,3 +1,7 @@
+# This workshop has now ended and this repository exists as an archive and reference.
+
+If you are interested in future DiRAC HPC Training, please visit [the DiRAC Training website](https://dirac.ac.uk/training/).
+
 # GPU Performance Portability Training: 15th-17th Sept 2026 
 
 **Code clinic topics:**
