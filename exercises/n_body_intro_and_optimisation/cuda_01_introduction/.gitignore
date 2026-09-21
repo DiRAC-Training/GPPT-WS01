@@ -1,0 +1,5 @@
+*.csv
+*.swp
+nbody_cpu
+nbody_gpu
+nbody_port
